@@ -252,7 +252,7 @@ function continueStatement(numero) {
       nuevoArray.push(numero);
     }
         return nuevoArray
-  }
+}
 
 
 // No modificar nada debajo de esta línea
