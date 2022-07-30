@@ -1,4 +1,4 @@
 #primero{color:red}
 #imagen{width:400px}
-#thirdDiv{height:600px;width:500px;background:linen}
-#spanId{font-size:18px;margin:50px;padding:50px}
+#thirdDiv{height:600px;width:500px;background:linen;padding:50px;border:10px solid red}
+#spanId{font-size:18px;margin:50px}
